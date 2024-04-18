@@ -35,6 +35,6 @@
 	</head>
 	<body>
 		<br>
-		<a href="http://zend-daalga.fjeclot.net/projecteldap/index.php">Torna a la pàgina inicial</a>
+		<a href="index.php">Torna a la pàgina inicial</a>
 	</body>
 </html>
