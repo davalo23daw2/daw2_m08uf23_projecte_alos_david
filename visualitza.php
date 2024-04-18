@@ -45,6 +45,6 @@ if ($_GET['usr'] && $_GET['ou']){
             <input type="reset"/>
         </form>
         <br>
-        <a href="http://zend-daalga.fjeclot.net/projecteldap/menu.php">Torna al menú</a>
+        <a href="menu.php">Torna al menú</a>
 	</body>
 </html>

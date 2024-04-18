@@ -19,6 +19,6 @@
 		<a href="afegeix.php">Afegeix un usuari</a><br>
 		<a href="esborra.php">Esborra un usuari</a><br>
 		<a href="modifica.php">Modifica les dades d'un usuari</a><br><br>
-		<a href="http://zend-daalga.fjeclot.net/projecteldap/index.php">Torna a la pàgina inicial</a>
+		<a href="index.php">Torna a la pàgina inicial</a>
 	</body>
 </html>
